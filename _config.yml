@@ -1,0 +1,12 @@
+name: "TASTER"
+description: "Training Attention Switching for Temper Episode Reduction"
+
+url: "http://tasterproject.com"
+
+paginate: 10
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+exclude: []
