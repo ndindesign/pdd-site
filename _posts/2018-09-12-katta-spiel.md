@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Katta Spiel Bio Neurodiversity in Design Discussion Forum
+title: Katta Spiel Biography (Neurodiversity in Design Discussion Forum)
 post_author: Nigel Robb
 ---
 In this post, we're introducing one of the speakers who will attend the Neurodiversity in Design Discussion Forum on 4th October 2018 at University College Dublin (see [here](http://neurodiversityindesign.eu/2018/09/07/ucd-event/) for more info.).
